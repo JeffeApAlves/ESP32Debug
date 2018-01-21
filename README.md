@@ -1,3 +1,3 @@
 # ESP32Debug
 
-Script para gerenciamento remoto de do openocd e projetos com ESP32
+Please visit the gh-pages of project [here](https://jeffeapalves.github.io/ESP32Debug/).
